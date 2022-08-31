@@ -1,0 +1,24 @@
+{
+  "name": "trons",
+  "version": "0.0.1",
+  "description": "Some useful tron scripts.",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/overphoenix/trons.git"
+  },
+  "keywords": [
+    "tron"
+  ],
+  "author": "Morph",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/overphoenix/trons/issues"
+  },
+  "homepage": "https://github.com/overphoenix/trons#readme",
+  "devDependencies": {
+    "@recalibratedsystems/tron": "^0.7.5"
+  }
+}
