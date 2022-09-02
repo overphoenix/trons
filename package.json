@@ -2,6 +2,7 @@
   "name": "trons",
   "version": "0.0.1",
   "description": "Some useful tron scripts.",
+  "type": "module",
   "scripts": {
     "test": "jest"
   },
